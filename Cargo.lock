@@ -969,7 +969,6 @@ name = "test-cargo-update"
 version = "0.1.0"
 dependencies = [
  "actix-web",
- "h2",
 ]
 
 [[package]]
